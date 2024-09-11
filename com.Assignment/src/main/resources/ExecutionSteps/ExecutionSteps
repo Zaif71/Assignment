@@ -1,0 +1,15 @@
+Test case:Valid login
+Test case id=001
+Preconditions:-User must have valid user login credential.
+Test Case steps:1)open the browser enter the url and navigate to the login page 2)enter valid user name valid password and click on login button.
+Expected result:-User should be successfully log in.
+Atual result:-Home page is displayed 
+
+
+
+Test case:Invalid login Credentials 
+Test case id=002
+Preconditions:None.
+Test Case steps:1)open the browser enter the url and navigate to the login page 2)enter Invalid user name Invalid password and click on login button.
+Expected result: Error message should displayed.
+Actual result:Error message is displayed.
